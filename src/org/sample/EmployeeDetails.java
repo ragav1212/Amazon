@@ -6,6 +6,8 @@ public class EmployeeDetails {
 		
 		System.out.println("Java");
 		System.out.println("python");
+		System.out.println("C++");
+
 	}
 
 }
